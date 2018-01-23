@@ -1,5 +1,6 @@
 ##### Credits
 
+ * The creators of this theme is Luc Raymond : https://lucraymond.net
  * The creators of El General (now known as Antu), off which
    La Capitaine is based: https://github.com/fabianalexisinostroza/Antu
  * The creators of Numix icon set, the base of El General:
